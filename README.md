@@ -78,7 +78,7 @@
     <font size="5">
       <i>CVPR 2025</i> Conference Submission
       <br />
-      <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan, Zelin Li, Yiming Ma, Zhongying Zhao, Renjie Wan
+      <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan, Zelin Li, Yiming Ma, Zhongying Zhao, Renjie Wan*
       <br />
       [<a href="https://github.com/user-attachments/files/17674870/NeRF_SRNF.9.pdf" style="text-decoration: underline;">In Progress</a>] 
     </font>
@@ -96,7 +96,7 @@
     <font size="5">
       Under Review by <i>Communications Biology</i>
       <br />
-      <strong>Cunmin Zhao</strong>, Zelin Li, Pei Zhang, ... ,Guoye Guan, Zhongying Zhao
+      <strong>Cunmin Zhao</strong>, Zelin Li, Pei Zhang, ... ,Guoye Guan*, Zhongying Zhao*
       <br />
       [<a href="https://github.com/user-attachments/files/17648455/commbio.pdf" style="text-decoration: underline;">Paper</a>]
     </font>
@@ -113,7 +113,7 @@
       <br />
       <i>Bioinformatics</i>
       <br />
-      Zelin Li, Dongying Xie, Yiming Ma, <strong>Cunmin Zhao</strong>, Sicheng You, Hong Yan, and Zhongying Zhao
+      Zelin Li, Dongying Xie, Yiming Ma, <strong>Cunmin Zhao</strong>, Sicheng You, Hong Yan, and Zhongying Zhao*
       <br />
       [<a href="https://github.com/user-attachments/files/17648675/bioinformatics.pdf" style="text-decoration: underline;">Paper</a>]
     </font>
@@ -129,7 +129,7 @@
     <font size="5">
       <i>Science of The Total Environment</i>
       <br />
-      Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
+      Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao*, Zongwei Cai*
       <br />
       [<a href="https://github.com/user-attachments/files/17648082/env2.pdf" style="text-decoration: underline;">Paper</a>]
     </font>
