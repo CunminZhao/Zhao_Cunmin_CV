@@ -55,11 +55,11 @@
 
 <tr>
 
-<td>HKBU Biology Department</td>
+<td>Undergraduate in HKBU</td>
 
 <td>2019.9~2023.5</td>
 
-<td>Major: Biotechnology Undergraduate</td>
+<td>Major in Biotech, Minor in CS</td>
 
 </tr>
 
