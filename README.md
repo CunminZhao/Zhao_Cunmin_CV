@@ -49,7 +49,7 @@
 
 <td>2019.9~2023.5</td>
 
-<td>Major in Biotech, Minor in CS</td>
+<td>Major in Biotech & Minor in CS</td>
 
 </tr>
 
