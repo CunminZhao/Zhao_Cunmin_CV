@@ -159,7 +159,7 @@
     <font size="5">
       Research Project
       <br />
-      <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
+      <strong>Zhao Cunmin</strong>, Lau Kin Tung, Liu Yulin, Yang Shu
       <br />
       [<a href="https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf" style="text-decoration: underline;">Paper</a>]
     </font>
