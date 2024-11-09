@@ -77,7 +77,7 @@
 * Wan Renjie (Assistant Professor, CS, Hong Kong Baptist University)
 * Zhao Zhongying (Professor, Bio, Hong Kong Baptist University)
 
-## Publications
+## Projects & Publications
 
 <strong>
         Neural Fields in Fluorescence Microscopy Imaging: Overcoming Accidental Excitation via An Implicit Way
