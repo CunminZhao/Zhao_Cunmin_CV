@@ -82,7 +82,7 @@
       <br />
       <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan, Zelin Li, Yiming Ma, Zhongying Zhao, Renjie Wan*
       <br />
-      [<a href="https://github.com/user-attachments/files/17674870/NeRF_SRNF.9.pdf" style="text-decoration: underline;">In Progress</a>] 
+      [In Progress] 
     </font>
   </div>
 </p>
