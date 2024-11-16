@@ -72,7 +72,7 @@
 ## Projects & Publications
 
 <strong>
-        Neural Fields in Fluorescence Microscopy Imaging: Overcoming Accidental Excitation via An Implicit Way
+        CellINR: Implicitly Overcoming Non-Specific Fluorescence Noise of Microscopy Imaging
 </strong>
 <p>
   <img width="200" alt="che" src="https://github.com/user-attachments/assets/74af179b-3e57-4236-9501-5af4abd0cc27" align="left">
