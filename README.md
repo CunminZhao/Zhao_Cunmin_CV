@@ -96,7 +96,7 @@
   <img width="200" alt="che" src="https://github.com/user-attachments/assets/cc986aba-3cc8-43fc-9fd8-1604a475685f" align="left">
   <div style="margin-left: 200px; text-align: right;">
     <font size="5">
-      Under Review by <i>Communications Biology</i>
+      Under Review
       <br />
       <strong>Cunmin Zhao</strong>, Zelin Li, Pei Zhang, ... ,Guoye Guan*, Zhongying Zhao*
       <br />
