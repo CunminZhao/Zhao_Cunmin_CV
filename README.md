@@ -61,8 +61,7 @@
 * Microscopy Fluorescence Image Processing 
 * Image Denoising, Segmentation, Super-Resolution and Enhancement
 * Developmental Biology
-* Neural Representation
-* Segment Anything in medical images
+
 
 ## Advisor
 * Guan Guoye (Postdoc, Harvard Medical School)
