@@ -116,7 +116,7 @@
       <br />
       Zelin Li, Dongying Xie, Yiming Ma, <strong>Cunmin Zhao</strong>, Sicheng You, Hong Yan, and Zhongying Zhao*
       <br />
-      [<a href="https://github.com/user-attachments/files/17648675/bioinformatics.pdf" style="text-decoration: underline;">Paper</a>] [<a href="https://github.com/plcx/NucApp-develop" style="text-decoration: underline;">Github</a>]
+      [<a href="https://academic.oup.com/bioinformatics/article/40/11/btae626/7825360" style="text-decoration: underline;">Paper</a>] [<a href="https://github.com/plcx/NucApp-develop" style="text-decoration: underline;">Github</a>]
     </font>
   </div>
 </p>
