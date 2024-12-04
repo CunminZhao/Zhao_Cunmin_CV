@@ -132,7 +132,7 @@
       <br />
       Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao*, Zongwei Cai*
       <br />
-      [<a href="https://github.com/user-attachments/files/17648082/env2.pdf" style="text-decoration: underline;">Paper</a>]
+      [<a href="https://www.sciencedirect.com/science/article/abs/pii/S004896972207749X" style="text-decoration: underline;">Paper</a>]
     </font>
   </div>
 </p>
