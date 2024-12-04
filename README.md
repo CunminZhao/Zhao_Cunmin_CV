@@ -79,7 +79,6 @@
     <font size="5">
       <i>XXXX 2025</i> Conference Submission
       <br />
-      <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan, Zelin Li, Yiming Ma, Zhongying Zhao, Renjie Wan*
       <br />
       [Paper] [Github] 
     </font>
