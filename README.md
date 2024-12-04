@@ -99,7 +99,7 @@
       <br />
       <strong>Cunmin Zhao</strong>, Zelin Li, Pei Zhang, ... ,Guoye Guan*, Zhongying Zhao*
       <br />
-      [<a href="https://github.com/user-attachments/files/17648455/commbio.pdf" style="text-decoration: underline;">Paper</a>] [<a href="https://github.com/CunminZhao/EmbSAM" style="text-decoration: underline;">Github</a>]
+      [<a href="https://www.biorxiv.org/content/10.1101/2024.09.07.611795v1" style="text-decoration: underline;">Paper</a>] [<a href="https://github.com/CunminZhao/EmbSAM" style="text-decoration: underline;">Github</a>]
     </font>
   </div>
 </p>
