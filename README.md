@@ -59,7 +59,7 @@
 
 ## Current Research Interests
 * Fluorescence Microscopy Image Processing 
-* Image Denoising, Segmentation, Super-Resolution and Enhancement
+* Deep learning in Image Denoising and Segmentation
 * Developmental Biology
 
 
