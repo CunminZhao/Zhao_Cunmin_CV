@@ -66,7 +66,7 @@
 ## Advisor
 * Guan Guoye (Postdoc, Harvard Medical School)
 * Wan Renjie (Assistant Professor, CS, Hong Kong Baptist University)
-* Zhao Zhongying (Full Professor, Bio, Hong Kong Baptist University)
+* [<a href="https://biol.hkbu.edu.hk/people/academic_staff_detail/148/" style="text-decoration: underline;">Zhao Zhongying</a>] (Full Professor, Bio, Hong Kong Baptist University)
 
 ## Projects & Publications
 
