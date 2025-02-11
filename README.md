@@ -64,9 +64,9 @@
 
 
 ## Advisor
-* <a href="https://www.researchgate.net/profile/Guoye-Guan" style="text-decoration: underline;">Guan Guoye</a> (Postdoc, Harvard Medical School)
-* <a href="https://wanrenjie.github.io/" style="text-decoration: underline;">Wan Renjie</a> (Assistant Professor, CS, Hong Kong Baptist University)
-* <a href="https://biol.hkbu.edu.hk/people/academic_staff_detail/148/" style="text-decoration: underline;">Zhao Zhongying</a> (Full Professor, Bio, Hong Kong Baptist University)
+* <a href="https://www.researchgate.net/profile/Guoye-Guan" style="text-decoration: underline;">Guan Guoye</a> (Postdoc, Quantitative Biology, Harvard Medical School)
+* <a href="https://wanrenjie.github.io/" style="text-decoration: underline;">Wan Renjie</a> (Assistant Professor, Computer Vision, Hong Kong Baptist University)
+* <a href="https://biol.hkbu.edu.hk/people/academic_staff_detail/148/" style="text-decoration: underline;">Zhao Zhongying</a> (Full Professor, Developmental Biology, Hong Kong Baptist University)
 
 ## Projects & Publications
 
