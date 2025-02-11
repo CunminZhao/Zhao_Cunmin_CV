@@ -5,7 +5,7 @@
 ## 个人信息 
 
 * 性 别：男
-* 年 龄：23
+* 年 龄：24
 * WeChat：SZ656739769
 * 邮 箱：19251211@life.hkbu.edu.hk    
 * B.Sc. in biotechnology with a focus on Genetics and Developmental Biology
