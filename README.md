@@ -9,7 +9,7 @@
 * WeChat：SZ656739769
 * 邮 箱：19251211@life.hkbu.edu.hk    
 * B.Sc. in biotechnology with a focus on Genetics and Developmental Biology
-* Minor in computer science with a focus on Deep Learning
+* Minor in computer science with a focus on CV&EE
 * Now：Research Asistant
 
 ## Work and Education Experience
