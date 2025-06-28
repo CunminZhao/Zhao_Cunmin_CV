@@ -63,11 +63,6 @@
 * Quantitative & Developmental Biology
 
 
-## Advisor
-* <a href="https://www.researchgate.net/profile/Guoye-Guan" style="text-decoration: underline;">Guan Guoye</a> (Postdoc, Quantitative Biology, Harvard Medical School)
-* <a href="https://wanrenjie.github.io/" style="text-decoration: underline;">Wan Renjie</a> (Assistant Professor, Computer Vision, Hong Kong Baptist University)
-* <a href="https://biol.hkbu.edu.hk/people/academic_staff_detail/148/" style="text-decoration: underline;">Zhao Zhongying</a> (Full Professor, Developmental Biology, Hong Kong Baptist University)
-
 ## Projects & Publications
 
 <strong>
@@ -87,22 +82,6 @@
 
 <br />
 
-<strong>
-        EmbSAM: Cell boundary localization and Segment Anything Model for fast images of developing embryos
-      </strong>
-<p>
-  <img width="200" alt="che" src="https://github.com/user-attachments/assets/cc986aba-3cc8-43fc-9fd8-1604a475685f" align="left">
-  <div style="margin-left: 200px; text-align: right;">
-    <font size="5">
-      Under Review
-      <br />
-      <strong>Cunmin Zhao</strong>, Zelin Li, Pei Zhang, ... ,Guoye Guan*, Zhongying Zhao*
-      <br />
-      [<a href="https://www.biorxiv.org/content/10.1101/2024.09.07.611795v1" style="text-decoration: underline;">Paper</a>] [<a href="https://github.com/CunminZhao/EmbSAM" style="text-decoration: underline;">Github</a>]
-    </font>
-  </div>
-</p>
-<br />
 <strong>
         Deep Learning-based Enhancement of Fluorescence Labeling for Accurate Cell Lineage Tracing During Embryogenesis
       </strong>
