@@ -19,9 +19,9 @@
 
 <td>HKBU/Prof. Zhao Zhongying Lab</td>
 
-<td>2023.7~now</td>
+<td>2021.3~now</td>
 
-<td>Research Assistant</td>
+<td>Research Assistant & Student-helper</td>
 
 </tr>
 
