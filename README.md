@@ -37,16 +37,6 @@
 
 <tr>
 
-<td>HKBU/Prof. Zhao Zhongying Lab</td>
-
-<td>2021.3~2023.5</td>
-
-<td>Student-helper</td>
-
-</tr>
-
-<tr>
-
 <td>Undergraduate in HKBU</td>
 
 <td>2019.9~2023.5</td>
