@@ -65,11 +65,10 @@
       <i>XXXX 2025</i> Conference Submission
       <br />
       <br />
-      [Paper] [Github] 
+      [<a href="https://github.com/user-attachments/files/21006055/626_CellINR.pdf" style="text-decoration: underline;">Paper</a>] [Github] 
     </font>
   </div>
 </p>
-
 <br />
 
 <strong>
@@ -100,7 +99,7 @@
       <br />
       Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao*, Zongwei Cai*
       <br />
-      [<a href="https://www.sciencedirect.com/science/article/abs/pii/S004896972207749X" style="text-decoration: underline;">Paper</a>]
+      [<a href="https://github.com/user-attachments/files/21006054/art_file.pdf" style="text-decoration: underline;">Paper</a>]
     </font>
   </div>
 </p>
@@ -169,8 +168,6 @@
 
 <br />
 
-[art_file.pdf](https://github.com/user-attachments/files/21006054/art_file.pdf)
-[626_CellINR.pdf](https://github.com/user-attachments/files/21006055/626_CellINR.pdf)
 
 
 
